@@ -1,0 +1,12 @@
+Student: Jefferson Arnaiz
+
+First Number: 24
+Second Number: 12
+Decimal Number: 30.3
+Sum: 36
+Difference: 12
+Product: 288
+Quotient: 2
+
+Is 24 bigger than 12?: true
+Is Jefferson Arnaiz an adult?: true
